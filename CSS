@@ -1,0 +1,115 @@
+body{
+   margin: 0;
+   padding: 0;
+   border: 0;
+    background-color: rgb(17, 17, 17);
+}
+
+.navegacao{
+    height: 90px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 12px;
+   background-color: rgb(235, 30, 23);
+   border-radius: 38px;
+} 
+
+.pagina_inicial{
+padding-left: 3%;
+padding-top: 23px;
+}
+
+.configuracoes{
+margin-left: 89%;
+margin-top: 23px;
+}
+
+.login_Title{
+    color:rgb(255, 255, 255);
+    font-family: "Sixtyfour", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "BLED" 0,
+      "SCAN" 0;
+    font-size: 28px;
+    padding-top: 28px;
+   text-align: center;
+}
+.senha_Title{
+    color:rgb(255, 255, 255);
+    font-family: "Sixtyfour", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "BLED" 0,
+      "SCAN" 0;
+    font-size: 28px;
+    padding-top: 28px;
+  text-align: center;
+}
+.usuario{
+width: 750px;
+text-align: center;
+margin-left: 30.4%;
+border-radius: 18px;
+height: 48px;
+border-color: white;
+}
+
+.senha{
+ width: 750px;
+text-align: center;
+margin-left: 30.4%;
+border-radius: 18px;
+height: 48px;
+border-color: white;
+
+}
+
+.rodape{
+    margin-top: 5.4%;
+    height: 33px;
+   background-color:  rgb(235, 30, 23);
+   margin-bottom: 0px;
+}
+.logo_Usuario{
+    padding-left: 47.4%;
+    padding-top: 7%;
+}
+
+.imagem_fapa{
+    border-radius: 100px;
+}
+
+.botoes{
+    margin-left: 34%;
+    margin-top: 85px;
+    justify-content: center;
+}
+.botao_Entrar{
+    height: 60px;
+    width: 255px;
+    border-radius: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    font-size: 18px;    
+    background-color: rgb(235, 30, 23);
+    border-color:  rgb(235, 30, 23);
+    color: white;
+}
+
+.botao_Cadastro{
+    height: 60px;
+    width: 255px;
+    border-radius: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+    background-color: rgb(235, 30, 23);
+    border-color:  rgb(235, 30, 23);
+    margin-left: 110px;
+    color: white;
+}
